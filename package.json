@@ -1,6 +1,6 @@
 {
-  "name": "qrcode-with-logos",
-  "version": "1.0.4",
+  "name": "@os33/qrcode-with-logos",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/qrcode-with-logos.common.js",
   "typings": "types/index.d.ts",
@@ -50,6 +50,6 @@
     "webpack-cli": "^3.3.5"
   },
   "dependencies": {
-    "qrcode": "^1.4.4"
+    "qrcode": "1.4.4"
   }
 }
